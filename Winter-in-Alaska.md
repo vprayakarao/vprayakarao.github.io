@@ -4,7 +4,6 @@ title: "Winter in Alaska"
 date: 2023-01-05
 ---
 
-Explore Anchorage
 
 Flightseeing Denali
 
@@ -12,58 +11,83 @@ Explore Seward
 
 Sightseeing in Kenai Fjords
 
-<img src="images./aerialview.gif" width="250" height="450">
-
-
-Exploring Fairbanks
-
-<img src="images./fairbanks.JPG" width="250" height="400">
+<img src="images./aerialview.gif" width="300" height="450">
 
 
 
-Ice Museum
+ ### Ice Museum
 
-<p align="center">
- <img src="images./icemuseum1.jpg" width="250" height="400">
+<p>
+ <img src="images./icemuseum1.jpg" width="200" height="300">
 &nbsp; &nbsp;
- <img src="images./icemuseum2.jpg" width="250" height="400">
+ <img src="images./icemuseum2.jpg" width="200" height="300">
 </p>
 
 
-Northern Lights
+### Northern Lights
 
-<img src="images/Auroralightsme.jpg" width="400" height="250">
+<p>
+<img src="images./Auroralights1.jpg" width="400" height="250">
+ &nbsp; &nbsp;
+<img src="images./Auroralights2.jpg" width="400" height="250">
+</p>
 
 
-Dog Sledding
+### Dog Sledding
 
 Dog-mushing experience outside of Fairbanks is a must do activity in Fairbanks. Taking a trail ride in North Pole involving a dog sled pulled by a team of Alaskan Huskies was the most amazing experience of this trip
 
-<img src="images./Dogsledding.gif" width="300" height="450" />
+<img src="images./Dogsledding.gif" width="320" height="450" />
 
+
+### Explore Anchorage
 
 Food and Restaurants
 - 49th State Brewing - Anchorage
 
-<p align="center">
-  <img src="images./49anchorage1.jpg" width="250" height="450">
+<p>
+  <img src="images./49anchorage1.jpg" width="210" height="300">
+&nbsp;
+  <img src="images./49anchorage2.jpg" width="180" height="300">
+&nbsp;
+  <img src="images./49anchorage3.jpg" width="200" height="300">
+&nbsp;
+  <img src="images./brewery.jpg" width="220" height="300">
+</p>
+
+### Exploring Fairbanks
+
+<img align="left" width="220" height="300" src="images./fairbanks.jpg">
+
+At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu Reeves' presentation of the role-playing game (RPG) Cyberpunk 2077, <br> loudly claiming, “"You're breathtaking,"” which was directed at the actor-cum-presenter. <br> The image macro used to build the "You're Breathtaking" <br> meme generally features a still of Keanu Reeves pointing at someone in the audience in front of him -<br> that someone is Peter Sark, though there are no images from Keanu's point of view that have since been used as part of the <br> "You're Breathtaking" meme.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Christmas!!
+
+<p>
+  <img src="images./Santa1.JPG" width="200" height="300">
 &nbsp; &nbsp;
-  <img src="images./49anchorage2.jpg" width="250" height="450">
+  <img src="images./SantaClause.JPG" width="400" height="300">
 &nbsp; &nbsp;
-  <img src="images./49anchorage3.jpg" width="250" height="450">
-&nbsp; &nbsp;
-  <img src="images./brewery.jpg" width="250" height="450">
+  <img src="images./Christmastree.JPG" width="200" height="300">
+
 </p>
 
 
 
-Photography. Everywhere!
+### Photography. Everywhere!
 
-<p align="center">
-  <img src="images./photo1.jpg" width="300" height="400">
+<p>
+  <img src="images./photo1.jpg" width="220" height="270">
 &nbsp; &nbsp;
-  <img src="images./photo2.jpg" width="300" height="400">
+  <img src="images./photo2.jpg" width="220" height="270">
 &nbsp; &nbsp;
-  <img src="images./photo3.jpg" width="300" height="400">
+  <img src="images./photo3.jpg" width="220" height="270">
 
 </p>
