@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div id="home">
+	<font face="Times New Roman">I am Vivek Prayakarao, Second Year Master's Student in Robotics at University of Maryland College Park. I worked as a Robotics Engineer Intern/Co-op at Axle Informatics. I worked on a project related to the development of an autonomous drone for indoor package delivery.I have done this for the laboratories of National Center for Advanced Translational Sciences(NCATS) division of National Institute of Health (NIH).
+ <h1>Projects</h1>
+<h3>1.Reign Of Gunters </h3>
+      <p>Gunter loves to smash bottles! For this task, the robot will be placed in a maze. There will be several objects (bottles) placed along the walls in the maze.The robot must navigate through the maze, find the locations of the objects and hit them with the gripper so they would fall.
+</p>
+			
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upYXG0lUyKE" frameborder="0" allowfullscreen></iframe>
+		<h3>2. Design of an Autonomous Micro-Air Vehicle</h3>
+      <p>I worked on the development of a 500 gram Vision-based Autonomous Quadrotor Vehicle Capable of Indoor Navigation.I have extensively worked with the Pixhawk flight controller of the air vehicle and interfaced it with Odroid (Onboard flight computer) using ROS.
+         I have also worked on developing the ROS - obstacle detection module using Teraranger (Range Finder) and servo.
+</p>
+<div class="images">
+			<img width="560" height="315" align="middle" src="./images/amav.png" alt="Micro Air Vehicle" >
+			</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q6S_OEdK4mM" frameborder="0" allowfullscreen></iframe>
+			<h3>3. Consensus in Networked Multi-Agent Systems</h3>
+			<p>During the first phase of our work, we have worked on theoretical framework for the
+			analysis of consensus algorithms. We have performed simulations focusing on a specific
+			application of achieving consensus in complex networks. We observed the convergence
+			rates for networks with changes in topology and time-delays. We also implemented various
+			forms of consensus algorithms in MATLAB and visualised the networks generated
+			using Cytoscape.During the second phase,we have worked in the Robotics lab to carry out
+			experimental studies to verify the simulation results and implement different formations
+			on Pioneer3 series mobile robots .</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/fZyoPuhHOf0" frameborder="0" allowfullscreen></iframe>
+
+      </section> </font>
+  <ul class="posts">
+    {% for post in site.categories.blog %}
+      <li>&laquo; <a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }} &raquo;</span></li>
+    {% endfor %}
+  </ul>
+  <ul class="posts">
+    {% for post in site.categories.about %}
+      <li>&laquo; <a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }} &raquo;</span></li>
+    {% endfor %}
+  </ul>
+  <ul class="posts">
+    {% for post in site.categories.general %}
+      <li>&laquo; <a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }} &raquo;</span></li>
+    {% endfor %}
+  </ul>
+
+</div>
