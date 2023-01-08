@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a Master's student in Robotics at [University of Maryland College Park](http://www.umd.edu/). 
+I'm an Autonomy Systems and Safety Engineer at [Aurora Innovation](http://www.aurora.tech/). 
 
-## Research Interests
+## Interests
 
-* Aerial Robotics
-* Robot Learning
-* Collaborative Robotics
+* Self Driving Cars
+* AI Safety
+* Simulation
 
 
 ## Education
@@ -20,6 +20,6 @@ I'm a Master's student in Robotics at [University of Maryland College Park](http
 
 ## Contact me
 
-[pvivek@umd.edu](Mail to:pvivek@umd.edu) or [vivek.iitj@gmail.com](Mail to:vivek.iitj@gmail.com)
+[vivek.iitj@gmail.com](Mail to:vivek.iitj@gmail.com)
 
-Last updated: 2016/07/14
+Last updated: 2023/01/07
