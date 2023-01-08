@@ -2,22 +2,11 @@
 layout: default
 title: Vivek Prayakarao's Blog
 ---
-<div id="home">
-	<font face="Times New Roman"> This is a blog on my recent trip to Alaska
-<h3>Flightseeing Denali</h3>
-      <p> Fill out denali experience
-</p>
-			
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
 
-<div class="images">
-			<img width="560" height="315" align="middle" src="../images/Scenicpic1.jpeg" >
-			</div>
-</div>
-
-<div class="images">
-	<img width="200" height="300" align="middle" src="../images/alaskaaerialview.JPG"  >
-	</div>
-</div>
-
-
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
 
