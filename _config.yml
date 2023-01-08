@@ -9,7 +9,7 @@ name: Vivek Prayakarao
 description: Autonomy Systems and Safety Engineer at Aurora Innovation
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "./images/dp.jpeg"
+avatar: "/images/dp.jpeg"
 
 #
 # Flags below are optional
