@@ -4,6 +4,8 @@ title: "Winter in Alaska"
 date: 2023-01-05
 ---
 
+<img src="images./alaskaaerialview.JPG" width="200" height="300">
+
 
 Flightseeing Denali
 
@@ -11,8 +13,15 @@ Explore Seward
 
 Sightseeing in Kenai Fjords
 
+<p>
 <img src="images./aerialview.gif" width="300" height="450">
+ &nbsp; &nbsp;
+<img src="images./seal1.gif" width="300" height="450">
+ &nbsp; &nbsp;
+<img src="images./wildlife.gif" width="300" height="450">
+</p>
 
+<img src="images./Scenicpic1.jpeg" width="600" height="350">
 
 
  ### Ice Museum
@@ -27,9 +36,15 @@ Sightseeing in Kenai Fjords
 ### Northern Lights
 
 <p>
-<img src="images./Auroralights1.jpg" width="400" height="250">
+<img src="images./Auroralights3.gif" width="400" height="300">
  &nbsp; &nbsp;
-<img src="images./Auroralights2.jpg" width="400" height="250">
+<img src="images./Auroralights4.gif" width="400" height="300">
+</p>
+
+<p>
+<img src="images./Auroralights1.jpg" width="400" height="300">
+&nbsp; &nbsp;
+<img src="images./Auroralights5.jpg" width="400" height="300">
 </p>
 
 
@@ -37,8 +52,13 @@ Sightseeing in Kenai Fjords
 
 Dog-mushing experience outside of Fairbanks is a must do activity in Fairbanks. Taking a trail ride in North Pole involving a dog sled pulled by a team of Alaskan Huskies was the most amazing experience of this trip
 
+<p>
 <img src="images./Dogsledding.gif" width="320" height="450" />
-
+ &nbsp; &nbsp;
+<img src="images./dogsledding1.gif" width="280" height="450">
+ &nbsp; &nbsp;
+<img src="images./dogsledding2.gif" width="320" height="450">
+</p>
 
 ### Explore Anchorage
 
@@ -89,5 +109,9 @@ At the 2019 rendition of E3, an eccentric gamer in attendance interrupted Keanu 
   <img src="images./photo2.jpg" width="220" height="270">
 &nbsp; &nbsp;
   <img src="images./photo3.jpg" width="220" height="270">
+&nbsp; &nbsp;
+  <img src="images./Antlerarch.JPG" width="180" height="270">
+&nbsp; &nbsp;
+  <img src="images./Train.JPG" width="220" height="270">
 
 </p>
